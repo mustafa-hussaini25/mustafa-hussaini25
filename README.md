@@ -1,188 +1,160 @@
-::: {align="center"}
-# 👋 Hi, I'm Mustafa Hussaini
+<div align="center">
 
-### Software Engineer Full-Stack Software Developer · JavaScript Enthusiast · Computer Science Graduate
+👋 Hi, I'm Mustafa Hussaini
 
-```{=html}
+Software Engineer · Full-Stack Developer · JavaScript Enthusiast · Computer Science Graduate
+
 <p>
-```
-`<a href="https://github.com/mustafa-hussaini25">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">`{=html}
-`</a>`{=html} `<a href="https://www.linkedin.com/">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">`{=html}
-`</a>`{=html}
-```{=html}
+  <a href="https://github.com/mustafa-hussaini25">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="YOUR_LINKEDIN_URL_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
-```
-:::
 
-------------------------------------------------------------------------
+</div>
 
-## 🚀 About Me
+🚀 About Me
 
-I'm a **Computer Science graduate and Full-Stack Software Developer**
-focused on building modern, practical, and user-friendly web
-applications.
+I'm a Computer Science graduate and Full-Stack Software Developer focused on building modern, practical, and user-friendly web applications.
 
-My main strength is frontend development with **JavaScript, React, and
-Next.js**, while I also work with backend technologies such as
-**Node.js, Express.js, Laravel, REST APIs, MongoDB, PostgreSQL and MySQL**.
+My main strength is frontend development with JavaScript, React, and Next.js, while I also work with backend technologies such as Node.js, Express.js, Laravel, REST APIs, MongoDB, and MySQL.
 
-I enjoy turning real-world problems into useful software products and
-continuously improving my skills in software architecture, backend
-development, cloud technologies, and modern development tools.
+I enjoy turning real-world problems into useful software products and continuously improving my skills in software architecture, backend development, cloud technologies, and modern development tools.
 
--   💻 Full-Stack Web Developer
--   ⚛️ Strong focus on React , Vue , Laravel, MERN & Next.js
--   🌐 Experienced with REST API development
--   📱 Interested in cross-platform application development
--   🧩 Building practical SaaS and business solutions
--   📚 Passionate about learning and teaching technology
+💻 Full-Stack Web Development
 
-------------------------------------------------------------------------
+⚛️ React, Next.js & modern JavaScript
 
-## 🛠️ Tech Stack
+🔌 REST API development
 
-### Frontend
+📱 React Native development
 
-```{=html}
+🧩 SaaS and business applications
+
+📚 Technology education and teaching
+
+🛠️ Tech Stack
+
+Frontend
+
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend technologies">`{=html}
-```{=html}
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend technologies">
 </p>
-```
-### Backend & Databases
 
-```{=html}
+Backend & Databases
+
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mongodb,mysql,postgres" alt="Backend technologies">`{=html}
-```{=html}
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mongodb,mysql,postgres" alt="Backend and database technologies">
 </p>
-```
-### Tools & Development
 
-```{=html}
+Tools & Development
+
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postman" alt="Development tools">`{=html}
-```{=html}
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postman" alt="Development tools">
 </p>
-```
 
-------------------------------------------------------------------------
+💡 What I Build
 
-## 💡 What I Build
+🌐 Modern business websites
 
-I enjoy working on applications such as:
+📊 Admin dashboards and management systems
 
--   🌐 Modern business websites
--   📊 Admin dashboards and management systems
--   🔐 Authentication and authorization systems
--   🔌 REST APIs
--   🛒 Business and booking platforms
--   📱 Cross-platform applications
--   🚀 SaaS products
--   🎓 Education and learning platforms
+🔐 Authentication and authorization systems
 
-------------------------------------------------------------------------
+🔌 REST APIs
 
-## 📌 Featured Project
+📅 Business and booking platforms
 
-### 🌐 Kabul Graph
+📱 Cross-platform applications
+
+🚀 SaaS products
+
+🎓 Education and learning platforms
+
+📌 Featured Project
+
+🌐 Kabul Graph
 
 A modern web application built with:
 
-**Next.js · Convex · PostgreSQL · Google Authentication**
+Next.js · Convex · PostgreSQL · Google Authentication
 
-🔗 **Live Project:** https://kabulgraph.vercel.app/
+🔗 Live Project: kabulgraph.vercel.app
 
-------------------------------------------------------------------------
+💼 Professional Experience
 
-## 💼 Professional Experience
+Software Engineer — Alavi Academy
 
-I have experience working in software development and technology
-education, including:
+Worked on software development and web application projects, contributing to practical solutions and modern web technologies.
 
--   **Software Engineering** --- Alavi Academy
--   **Technology Instructor** --- Teaching AI, Full-Stack Development,
-    and Computer Skills
+Technology Instructor — Tech Lingo Academy
 
-My teaching experience has also strengthened my ability to explain
-complex technical concepts clearly and work with different levels of
-learners.
+Teaching AI, Full-Stack Development, and Computer Skills, while helping students understand technical concepts through practical learning.
 
-------------------------------------------------------------------------
+📈 Currently Learning & Exploring
 
-## 📈 Currently Learning & Exploring
+🏗️ Advanced backend architecture
 
-I'm continuously expanding my backend and infrastructure knowledge.
+🟢 Node.js & modern backend patterns
 
--   🏗️ Advanced backend architecture
--   🟢 Node.js & modern backend patterns
--   🦅 NestJS
--   🐳 Docker
--   ☁️ AWS / Azure
--   🐧 Linux & server management
--   🔐 API security
--   ⚡ Performance and scalability
+🦅 NestJS
 
-------------------------------------------------------------------------
+🐳 Docker
 
-## 🎯 My Development Philosophy
+☁️ AWS / Azure
 
-> **Build practical things. Learn continuously. Write maintainable
-> code.**
+🐧 Linux & server management
 
-I believe good software is not only about making something work. It
-should also be understandable, maintainable, scalable, and useful to the
-people who use it.
+🔐 API security
 
-------------------------------------------------------------------------
+⚡ Performance and scalability
 
-## 📊 GitHub Stats
+🎯 Development Philosophy
 
-::: {align="center"}
-`<img src="https://github-readme-stats.vercel.app/api?username=mustafa-hussaini25&show_icons=true&theme=tokyonight&hide_border=true" height="170">`{=html}
+Build practical things. Learn continuously. Write maintainable code.
 
-`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-hussaini25&layout=compact&theme=tokyonight&hide_border=true" height="170">`{=html}
-:::
+I believe good software is not only about making something work. It should also be understandable, maintainable, scalable, and useful to the people who use it.
 
-------------------------------------------------------------------------
+📊 GitHub Stats
 
-## 🔥 GitHub Streak
+<div align="center">
 
-::: {align="center"}
-`<img src="https://streak-stats.demolab.com?user=mustafa-hussaini25&theme=tokyonight&hide_border=true" alt="GitHub streak">`{=html}
-:::
+<img src="https://github-readme-stats.vercel.app/api?username=mustafa-hussaini25&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub stats">
 
-------------------------------------------------------------------------
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-hussaini25&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages">
 
-## 🤝 Let's Connect
+</div>
 
-I'm open to connecting with developers, companies, entrepreneurs, and
-people interested in technology and software development.
+🔥 GitHub Streak
 
-```{=html}
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mustafa-hussaini25&theme=tokyonight&hide_border=true" alt="GitHub streak">
+
+</div>
+
+🤝 Let's Connect
+
+I'm open to connecting with developers, companies, entrepreneurs, and people interested in technology and software development.
+
 <p align="center">
-```
-`<a href="https://github.com/mustafa-hussaini25">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">`{=html}
-`</a>`{=html}
 
-`<a href="https://www.linkedin.com/in/mustafa-hussaini-b39a141a7/">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">`{=html}
-`</a>`{=html}
+<a href="https://github.com/mustafa-hussaini25">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
-```{=html}
+<a href="https://www.linkedin.com/in/mustafa-hussaini-b39a141a7/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
 </p>
-```
 
-------------------------------------------------------------------------
+<div align="center">
 
-::: {align="center"}
-### ⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!
 
-`<img src="https://komarev.com/ghpvc/?username=mustafa-hussaini25&style=flat-square&color=blue" alt="Profile views">`{=html}
-:::
+<img src="https://komarev.com/ghpvc/?username=mustafa-hussaini25&style=flat-square&color=blue" alt="Profile views">
+
+</div>
