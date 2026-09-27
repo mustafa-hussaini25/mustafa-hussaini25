@@ -8,7 +8,7 @@ Software Engineer · Full-Stack Developer · JavaScript Enthusiast · Computer S
   <a href="https://github.com/mustafa-hussaini25">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="YOUR_LINKEDIN_URL_HERE">
+  <a href="https://www.linkedin.com/in/mustafa-hussaini-b39a141a7/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
